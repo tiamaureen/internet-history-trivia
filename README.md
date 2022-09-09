@@ -6,7 +6,7 @@
 
 *Unit #1 project, for the software engineering intensive, at General Assembly (cohort: SEI 8/22).*
 
-![Wireframe](images/wireframe.png)
+![Wireframe](images/wire-frame.png)
 
 ## Technologies Used
 
