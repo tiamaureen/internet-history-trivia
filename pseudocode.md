@@ -35,10 +35,10 @@
 ### step 3: initialize game state
 
 - score to 0, timer to 0, lives to (?)
+- start button
 
 ### step 4: when game is not over, render game state
 
-- start button
 - render the current question, the player's current score, the number of lives the player has remanding
 
 ### step 5: define constants
