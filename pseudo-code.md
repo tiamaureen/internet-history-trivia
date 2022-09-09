@@ -1,4 +1,4 @@
-# internet history trivia pseudocode
+# internet history trivia pseudo-code
 
 <!-- *I will update the wire-frame, as there are a few elements I'm missing.* -->
 
