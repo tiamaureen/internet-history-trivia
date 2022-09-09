@@ -22,7 +22,7 @@
 
 ## pseudo-code
 
-<!-- *expanding this further, but here is the introductory pseudo-code* -->
+*expanding this further, but here is the introductory pseudo-code to get a sneak peak*
 
 ### step 1: define required variables used to track state of the game
 
