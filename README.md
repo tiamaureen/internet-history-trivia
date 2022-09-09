@@ -36,10 +36,6 @@
 - computer player
 - storing data on client using localStorage
 
-## Wireframing
-
-(coming soon)
-
 ## Credits & Gratitudes
 
 *A special thanks to my amazing instructors: Ben Manley, David Stinson, Hunter Long, Ian Terada and Joe Malatesta. Y'all are the "dream-team".*
